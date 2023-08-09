@@ -1,6 +1,7 @@
 package com.example.fakestore.core.di
 
 import android.content.Context
+import com.example.fakestore.BuildConfig
 import com.example.fakestore.core.Constant
 import com.example.fakestore.core.network.NetworkHelper
 import com.example.fakestore.core.network.NetworkInterceptor

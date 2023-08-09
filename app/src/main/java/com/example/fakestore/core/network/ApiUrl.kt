@@ -7,14 +7,14 @@ object UserUrl{
 
 }
 
-object ProductUrl{
+object ProductsUrl{
     const val allProduct="products"
     const val product="products/{id}"
     const val productsByCategory ="products/category/{category}"
 }
 
 object CategoryUrl{
-    const val categories="categories"
+    const val categories="products/categories"
 }
 
 object CartUrl{
